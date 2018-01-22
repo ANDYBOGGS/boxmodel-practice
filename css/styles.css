@@ -1,0 +1,56 @@
+.box1 {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
+}
+
+.box2 {
+  margin: 12px;
+  border: 5px dotted black;
+  padding: 8px;
+  background-color: grey;
+  width: 75%
+}
+
+.box3 {
+  font-size: 75px;
+  letter-spacing: .2em;
+  margin: 25px auto 25px auto;
+  border: 10px double red;
+  padding: 30px;
+  width: 400px;
+  height: 100px;
+  background-color: rgb(200, 200, 200);
+  text-align: center;
+}
+
+.box4 {
+    font-size: 100px;
+    letter-spacing: .1em;
+    margin: 30px 20px 30px 80px;
+    border: dashed black;
+    text-align: right;
+  }
+
+.box5 {
+    font-family: monospace;
+    font-size: 50px;
+    border: solid 50px;
+    padding: 25px;
+    margin: 10px;
+    background-color: rgb(255, 205, 0);
+}
+
+
+}
+
+body {font-family: sans-serif;
+      text-align: center;
+
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: .4em
+}
